@@ -6,7 +6,7 @@ export const Form = () => {
       </h3>
 
       <form
-        action="https://formsubmit.co/jamilguzman202@gmail.com"
+        action="https://formsubmit.co/carlosortizyuberes2809@gmail.com"
         method="POST"
         className="space-y-6"
       >
