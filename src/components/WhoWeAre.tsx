@@ -6,9 +6,9 @@ export const WhoWheAre = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div className="relative">
-            <div className="absolute inset-0 bg-primary/10 rounded-3xl transform -rotate-2 -z-10"></div>
+            <div className="absolute inset-0 rounded-3xl transform -rotate-2 -z-10"></div>
             <img
-              className="rounded-2xl shadow-xl w-full object-cover"
+              className="rounded-2xl w-full object-cover"
               alt="Terapia y recuperación en CEREFA"
               src={quienesSomos}
             />
