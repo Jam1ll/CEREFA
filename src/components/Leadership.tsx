@@ -1,4 +1,5 @@
 import foto1 from "../assets/images/foto1.jpg";
+import foto2 from "../assets/images/fotoAbogado.jpg";
 
 export const Leadership = () => {
   return (
@@ -49,7 +50,7 @@ export const Leadership = () => {
               <img
                 className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-300"
                 alt="Lic. Felipe Ortiz"
-                src="https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=400&auto=format&fit=crop"
+                src={foto2}
               />
             </div>
             <h3 className="text-2xl font-bold text-textDark">
